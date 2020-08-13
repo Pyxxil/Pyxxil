@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-<div style="justify-content:center;align-content:center;display:flex;"><img src="https://github-readme-stats.vercel.app/api?username=pyxxil&show_icons=true&theme=radical" alt="Pyxxil's GitHub Stats" /></div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pyxxil&show_icons=true&theme=radical" alt="Pyxxil's GitHub Stats" />
+</p>
 
 <!--
 **Pyxxil/Pyxxil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
