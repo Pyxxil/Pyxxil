@@ -7,3 +7,5 @@ I am an Honours Graduate from the University of Auckland, Majoring in Computer S
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pyxxil&layout=compact&theme=tokyonight" alt="Pyxxil's Language Stats" />
 </p>
+
+As you can see in the above, I don't overly focus on one language, but just having fun solving problems, and making some cool software along the way.
