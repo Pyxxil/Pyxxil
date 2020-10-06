@@ -9,3 +9,11 @@ I am an Honours Graduate from the University of Auckland, Majoring in Computer S
 </p>
 
 As you can see in the above, I don't overly focus on one language, but just having fun solving problems, and making some cool software along the way.
+
+I spend a fair amount of time working on my [website](https://www.pyxxilated.studio), which I use to host many of my own projects. I often spend time trying to optimise it for a lot of things, and Google's PageSpeed Insights is something I'm trying my best to 100% (almost there..).
+
+Here are the current insights for my page (inspired by https://github.com/ankurparihar/readme-pagespeed-insights, however I rewrote it to work on a cloudflare worker just to learn how those worked):
+
+<p align="center">
+  <image src="https://insights.pyxxilated.studio/?site=https://www.pyxxilated.studio" alt="PageSpeed Insights"/>
+</p>
